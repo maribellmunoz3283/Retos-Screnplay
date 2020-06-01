@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Register User" skipped="0" tests="1" time="47.66" timestamp="2020-05-31 06:37:55"><testcase name="Register User"><error message="Expected condition failed: waiting for By.xpath: //b[contains(text(),'EDIT')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'CHMEPPF0FNNEK', ip: '192.168.1.28', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.xpath: //b[contains(text(),'EDIT')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0FNNEK', ip: '192.168.1.28', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.xpath: //b[contains(text(),'EDIT')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'CHMEPPF0FNNEK', ip: '192.168.1.28', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certification.demosite.stepdefinitions.RegistrerStepDefinitions.verifiesThatTheScreenIsLoadingWithTextDoubleClickOnEditIconToEDITTheTableRow(RegistrerStepDefinitions.java:37)&#13;
+✽.verifies that the screen is loading with text Double Click on Edit Icon to EDIT the Table Row(src/test/resources/features/registrer_demo_site.feature:16)&#13;
+</system-err></testcase></testsuite>

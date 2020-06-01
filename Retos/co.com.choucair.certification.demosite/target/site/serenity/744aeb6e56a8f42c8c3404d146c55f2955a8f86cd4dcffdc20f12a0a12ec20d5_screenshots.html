@@ -1,0 +1,260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+<!--[if IE 7]>
+<link rel="stylesheet" href="font-awesome/css/font-awesome-ie7.min.css">
+<![endif]--><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/><!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">Demo Project using Serenity and Cucumber</span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="166dda3bef7bacdc492105d6be664b743c264b051a9585bdb8851d4fe0857c54.html">Register User</a></span>
+                > <span class="truncate-60"><a
+                    href="744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5.html">Register User </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="fa fa-check-square-o"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="fa fa-comments-o"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 31-05-2020 18:37</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fa fa-2x fa-comments-o"></i>
+                                    <span class="story-header-title">Register User </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                As User
+I want to login
+To register on the platform
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;"
+                                    <i class="fa fa-tag"></i>&nbsp;<a class="tagLink" style="background:default;" href="2f59df5a4feccefff541f3a3f0f19ff69082c3d3d406875b259415f1be4b0b57.html">Runnertags
+                                    (tag)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
+                            <span class="test-case-title">
+                                <span class="error-color">Register User
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+                        <div class="panel-heading title="Assertion error: Expected condition failed: waiting for By.xpath: //b[contains(text(),'EDIT')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'System info: host: 'CHMEPPF0FNNEK', ip: '192.168.1.28', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'Driver info: driver.version: unknown">
+                            Assertion error: Expected condition failed: waiting for By.xpath: //b[contains(text(),'EDIT')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:...
+                        </div>
+                <div><!-- Stack trace -->
+                    <button type="button" class="btn btn-danger" data-toggle="modal"
+                            data-target="#stacktraceModal-overall">
+                        View details
+                    </button>
+                </div>
+                <!-- Modal -->
+                <div class="modal fade" id="stacktraceModal-overall" tabindex="-1" role="dialog"
+                     aria-labelledby="stacktraceModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"
+                                        aria-label="Close"><span aria-hidden="true">&times;</span>
+                                </button>
+                                <h4 class="modal-title" id="stacktraceModalLabel">
+                                    java.lang.AssertionError
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                    <h5>
+                                        <pre>Expected condition failed: waiting for By.xpath: //b[contains(text(),'EDIT')] to be displayed (tried for 5 second(s) with 100 milliseconds interval)<br>Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'<br>System info: host: 'CHMEPPF0FNNEK', ip: '192.168.1.28', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'<br>Driver info: driver.version: unknown</pre>
+                                    </h5>
+                                    co.com.choucair.certification.demosite.stepdefinitions.RegistrerStepDefinitions.verifiesThatTheScreenIsLoadingWithTextDoubleClickOnEditIconToEDITTheTableRow(RegistrerStepDefinitions.java
+                                    :37) <br>
+                                    ✽.verifies that the screen is loading with text Double Click on Edit Icon to EDIT the Table Row(src/test/resources/features/registrer_demo_site.feature
+                                    :16) <br>
+                            </div>
+
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource7594824138384857991.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="a52e03f164506226912248df1a041ecc6685bb29a936a09cb8f0756ef4103fce.png" title="Given wants to access the Web Automation Demo Site" width="1366"/>
+                <img src="a52e03f164506226912248df1a041ecc6685bb29a936a09cb8f0756ef4103fce.png" title="maribell opens the Demo site home page" width="1366"/>
+                <img src="321b15f992d2c5098b7ed9a3c83e73bce4fe4074e12182a2c488d6c57d4d5f98.png" title="When he performs the login on the page
+| firstName | lastName | address | emailAddress | phone | gender | hobbies | languages | skills | country | selectCountry | year | month | day | password | confirmPassword |
+| Maribell | Munoz | carrera 88 83-15 | mary198mx@gmail.com | 3006295223 | FeMale | movies | English,French | Python | Chile | Japan | 1981 | October | 19 | Daniel20* | Daniel20* |" width="1366"/>
+                <img src="2bb126746535be908c079ad5aafb0a39018a0824b0145b81e3e8b8f1b6e3e0fe.png" title="maribell enters 'Maribell' into The box first name" width="1366"/>
+                <img src="7efff8c6b3900c7c48d8eb606c9fddae009e21bb389e803abb8b6af256ac5942.png" title="maribell enters 'Munoz' into The box last name" width="1366"/>
+                <img src="3073649a8488ed9ffed2348044c040d378ee537fefe58242e1e4cf5c40c16860.png" title="maribell enters 'carrera 88 83-15' into The box address" width="1366"/>
+                <img src="c3e12a24402d0bd43bbc5cad833591d9a4b8f5abf9b6daed4e0cea5b4d4ade48.png" title="maribell enters 'mary198mx@gmail.com' into The box email" width="1366"/>
+                <img src="5d959ce0e316f72b46860cd128f3d6a7cd3497ccaac29da89dc3888348b9479b.png" title="maribell enters '3006295223' into The box email" width="1366"/>
+                <img src="f48ea0319882acd41e89b4a0951446f49103b87d83f3d980920f534b0b7485b0.png" title="maribell clicks on Female gender" width="1366"/>
+                <img src="d1bd174d309f56eabdc97c24921d77ade4ae36479e670c8ec7e84a29ee1b4580.png" title="maribell clicks on hobbies hockey" width="1366"/>
+                <img src="bbc253d892cabb6f1fa8604b7c86d7984cd7b5b5d44074e332af377aace48c4c.png" title="maribell clicks on Click en la lista de lenguajes" width="1366"/>
+                <img src="d284e4736aeb3f860b5b7560265aa723ecb78883e8d85fd14a469ce744bd523e.png" title="maribell clicks on Click lenguaje" width="1366"/>
+                <img src="2941bbc57248a18f55f7f4e627498ddafeb98f02480b6240ed67c16ffe9d055d.png" title="maribell select Python on Click Skills" width="1366"/>
+                <img src="4db656aa09d19bfd2593b26b718cef9ecef23a7e2b963f16cc14e3154fb6af83.png" title="maribell select Chile on elegir pais" width="1366"/>
+                <img src="50baf09c642f416641864a1ceeb0cae9085520d9da7b94bc0671c690ba69acdf.png" title="maribell select 1981 on seleccionar a&ntilde;o" width="1366"/>
+                <img src="84a9f57d267ec94c1a22deef8a07c7cccc8611100b290826b3d6c91209643a3a.png" title="maribell select October on selecionar mes" width="1366"/>
+                <img src="c7bbc7dbafc5b780141d372f0546ee6e8b5c8df31dfd2d59827b2ec0b33deb01.png" title="maribell select 19 on selecionar dia" width="1366"/>
+                <img src="6c28252e3733afba46a60b96e1158d0d5772476cb895610ca2578bdf2ab46841.png" title="maribell enters 'Daniel20*' into The box email" width="1366"/>
+                <img src="261123c794e97d20804c019a8383be10941ee897a3100e7a4e31ec9686bd23f4.png" title="maribell enters 'Daniel20*' into The box email" width="1366"/>
+                <img src="321b15f992d2c5098b7ed9a3c83e73bce4fe4074e12182a2c488d6c57d4d5f98.png" title="maribell clicks on Click Submit" width="1366"/>
+                <img src="321b15f992d2c5098b7ed9a3c83e73bce4fe4074e12182a2c488d6c57d4d5f98.png" title="Then the answer should be 'EDIT': <span class='error-color'>ERROR</span>" width="1366"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 1.9.9</span>
+</div>
+</body>
+</html>

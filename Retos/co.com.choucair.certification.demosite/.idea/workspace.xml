@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cf9c71d-4c7c-41a4-8f8d-d4ef284e1bd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/261123c794e97d20804c019a8383be10941ee897a3100e7a4e31ec9686bd23f4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/2941bbc57248a18f55f7f4e627498ddafeb98f02480b6240ed67c16ffe9d055d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/2bb126746535be908c079ad5aafb0a39018a0824b0145b81e3e8b8f1b6e3e0fe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/3073649a8488ed9ffed2348044c040d378ee537fefe58242e1e4cf5c40c16860.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/321b15f992d2c5098b7ed9a3c83e73bce4fe4074e12182a2c488d6c57d4d5f98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/4db656aa09d19bfd2593b26b718cef9ecef23a7e2b963f16cc14e3154fb6af83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/50baf09c642f416641864a1ceeb0cae9085520d9da7b94bc0671c690ba69acdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/5d959ce0e316f72b46860cd128f3d6a7cd3497ccaac29da89dc3888348b9479b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/6c28252e3733afba46a60b96e1158d0d5772476cb895610ca2578bdf2ab46841.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/7efff8c6b3900c7c48d8eb606c9fddae009e21bb389e803abb8b6af256ac5942.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/84a9f57d267ec94c1a22deef8a07c7cccc8611100b290826b3d6c91209643a3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/a52e03f164506226912248df1a041ecc6685bb29a936a09cb8f0756ef4103fce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/bbc253d892cabb6f1fa8604b7c86d7984cd7b5b5d44074e332af377aace48c4c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/c3e12a24402d0bd43bbc5cad833591d9a4b8f5abf9b6daed4e0cea5b4d4ade48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/c7bbc7dbafc5b780141d372f0546ee6e8b5c8df31dfd2d59827b2ec0b33deb01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/d1bd174d309f56eabdc97c24921d77ade4ae36479e670c8ec7e84a29ee1b4580.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/d284e4736aeb3f860b5b7560265aa723ecb78883e8d85fd14a469ce744bd523e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/f48ea0319882acd41e89b4a0951446f49103b87d83f3d980920f534b0b7485b0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/serenity/pagesource7594824138384857991.html.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6ae7eb0347193dddfac78de66628bab9c78f53fc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6ae7eb0347193dddfac78de66628bab9c78f53fc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fef1e010fdbae7100c20c79298c6534bb0beb91" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fef1e010fdbae7100c20c79298c6534bb0beb91" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86ff0be69d00224548d528b6784b91d75e2319da" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86ff0be69d00224548d528b6784b91d75e2319da" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/interactions/Selecthobbies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/interactions/Selecthobbies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/tasks/Open.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/tasks/OpenUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/tasks/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/tasks/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/userinterface/DemoSiteHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/demosite/userinterface/DemoSiteHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/demosite/stepdefinitions/RegistrerStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/demosite/stepdefinitions/RegistrerStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-744aeb6e56a8f42c8c3404d146c55f2955a8f86cd4dcffdc20f12a0a12ec20d5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RLU5MTJROoMWXBLDYvZJ9sJyI6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.45054096" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ejercicios screenplay\co.com.choucair.certification.demosite\src\test\resources\driver" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.certification.demosite.questions" />
+      <recent name="co.com.choucair.certification.demosite.model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.choucair.certification.demosite.runners.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cf9c71d-4c7c-41a4-8f8d-d4ef284e1bd0" name="Default Changelist" comment="" />
+      <created>1569445685893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569445685893</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1590968555986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590968555986" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1590968555985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590968555985" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1590968555985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590968555985" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1590968555985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590968555985" />
+  </component>
+</project>
